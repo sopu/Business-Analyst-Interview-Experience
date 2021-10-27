@@ -132,6 +132,8 @@ Ans- I knew the similar puzzle with the answer but I took 2 3 mins to answer the
 
 ( He was impressed and I was happy )
 
+![alt text](https://indianmemetemplates.com/wp-content/uploads/akshay-kumar-funny-expression.jpg/to/img.png)
+
 
 
 Q. Why this organization?
