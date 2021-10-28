@@ -103,7 +103,7 @@ Ans- able to solve with some basic functions like CountIF, Pivot Table, Slicer, 
 #### Q. Good let's take another case study.
 
 *Data was given of 2 companies. set up an enviornment so that Company A will gain extra profit than company B 
-(with same market share and same product mix)
+(with same market share and same product mix)*
 
 Ans- worked on product mix in excel. it was an optimization problem
 
