@@ -1,4 +1,4 @@
-# Business-Analyst-Interview-Experience
+# Senior-Business-Analyst-Interview-Experience
 
 Greetings,
 
