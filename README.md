@@ -12,9 +12,9 @@ This was my experience of the Senior Analyst interview at VNIT, Nagpur campus dr
 
 Ans -
 
-#### Q. What was the biggest challenge at your first job..?
+#### Q. What was the biggest challenge at your first job?
 
-Ans- As I was working at a startup working in e-commerce business in the grocery business, seasonal demand and supply was the biggest problem to forecast accurate demand
+Ans- As I was working in e-commerce business, seasonal demand and supply was the biggest problem to forecast accurate demand for grocery products
 
 (explained in detail)
 
@@ -22,13 +22,13 @@ Ans- As I was working at a startup working in e-commerce business in the grocery
 
 Ans - I used to work on Excel and Power BI
 
-#### Q. Ohh great, you know about Excel and Power BI.
+#### Q. Ohh great, you know about Excel and Power BI?
 
-Ans - yes sir, I have hands-on Excel, and yes I am comfortable with Power BI also
+Ans - Yes sir, I have hands-on Excel, and yes I am comfortable with Power BI also
 
 #### Q. Tell me which is better to visualize data and justify
 
-Ans- power BI sir for relational database
+Ans- Power BI for relational database
 
 #### Q. What is a database?
 
@@ -58,7 +58,7 @@ Okey np
 
 #### Q. Let's take a case study now, Share your screen and explain me in Excel
 
-*(the case study in which certain data was provided and asked me to increase the revenue by at least 40% for xyz organisation. The dataset includes 5 products and sales data of last 3 years )
+*(the case study in which certain data was provided and asked me to increase the revenue by at least 40% for xyz organisation. The dataset includes 5 products and sales data of last 3 years )*
 
 Ans - did a few assumptions and calculations and 2 different strategies by which I was able to increase revenue by 73.5% ( this was The turning point of my interview ). well, considering the calculations were purely based on assumptions - even at 70% efficiency we can still achieve 40% + revenue
 
